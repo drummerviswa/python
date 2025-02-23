@@ -1,0 +1,14 @@
+pandas
+matplotlib
+numpy
+sklearn
+seaborn
+sklearn_extra
+pyclustertend
+
+python -m pip install -U pip
+python -m pip install -U matplotlib
+pip install -U scikit-learn
+pip install seaborn
+pip install scikit-learn-extra
+pip install pyclustertend

@@ -1,0 +1,16 @@
+# Graphical Representation tools
+
+#[1] plot()	Creates line plots with customizable styles.
+#[2] scatter()	Generates scatter plots to visualize relationships.
+#[3] bar()	Creates bar charts for comparing categories.
+#[4] hist()	Draws histograms to show data distribution.
+#[5] pie()	Creates pie charts to represent parts of a whole.
+#[6] xlabel(), ylabel()	Sets labels for the X and Y axes.
+#[7] title()	Adds a title to the plot.
+#[8] legend()	Adds a legend to differentiate data series.
+#[9] xlim(), ylim()	Sets limits for the X and Y axes.
+#[10] grid()	Adds gridlines to the plot for readability.
+#[11] show()	Displays the plot in a window.
+#[12] figure()	Creates or activates a figure.
+#[13] subplot()	Creates a grid of subplots within a figure.
+#[14] savefig()	Saves the current figure to a file.

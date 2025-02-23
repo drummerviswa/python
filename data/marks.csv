@@ -1,0 +1,16 @@
+ID,Name,Gender,Physics,Chemistry,Maths,Selected
+1,Sanjay,Male,90,55,28,Yes
+2,Vikram,Male,56,86,68,No
+3,Sherya,Female,76,57,33,Yes
+4,Santhosh,Male,63,67,56,Yes
+5,Abishek,Male,42,81,44,No
+6,Priya,Female,67,74,77,Yes
+7,Sunil,Male,54,28,27,Yes
+8,Irfan,Male,40,26,26,No
+9,Guru,Male,31,25,82,No
+10,Tamil,Male,99,35,73,No
+11,Kumar,Male,13,74,71,Yes
+12,Janani,Female,85,37,87,No
+13,Akash,Male,74,84,46,No
+14,Charan,Male,62,79,36,Yes
+15,Deepika,Female,87,86,70,Yes
